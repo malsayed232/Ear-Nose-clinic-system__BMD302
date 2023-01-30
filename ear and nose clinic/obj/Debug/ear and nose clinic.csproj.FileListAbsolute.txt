@@ -1,0 +1,87 @@
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form1.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form2.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form3.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Properties.Resources.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form10.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form11.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form5.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form6.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form7.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form8.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form9.resources
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.exe.config
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.exe
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.pdb
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\MySql.Data.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Buffers.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Memory.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\ZstdNet.dll
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\MySql.Data.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Buffers.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Memory.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.CopyComplete
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.exe
+C:\Users\Dell\source\repos\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.pdb
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.exe.config
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.exe
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\ear and nose clinic.pdb
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\BouncyCastle.Crypto.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\MySql.Data.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Buffers.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Memory.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Numerics.Vectors.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\ZstdNet.dll
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\BouncyCastle.Crypto.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.pdb
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\Google.Protobuf.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\MySql.Data.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Buffers.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Memory.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Numerics.Vectors.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.AssemblyReference.cache
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.SuggestedBindingRedirects.cache
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form1.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form10.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form11.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form2.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form3.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form4.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form5.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form6.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form7.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form8.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Form9.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear_and_nose_clinic.Properties.Resources.resources
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.GenerateResource.cache
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.CoreCompileInputs.cache
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.csproj.CopyComplete
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.exe
+D:\Marwah\ear and nose clinic\ear and nose clinic\obj\Debug\ear and nose clinic.pdb
